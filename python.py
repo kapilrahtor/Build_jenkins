@@ -1,7 +1,7 @@
 import math
 
 # Input radius
-radius = 3.5
+radius = 3
 
 # Calculate area
 area = math.pi * (radius ** 2)
